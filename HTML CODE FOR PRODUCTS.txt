@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tech2etc Ecommerce Tutorial</title>
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <section id="header">
+
+            <a href="#"><img src="img/logo.png" alt=""></a>
+            <div>
+                <ul id="navbar">
+                    <li><a class="active" href="index.html">Home</a></li>
+                    <li><a href="blog.html">blog</a></li>
+                    <li><a href="contact.html">contact</a></li>
+                    <li><a href="shop.html">shop</a></li>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="cart.html"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
+                </ul>
+            </div>
+            </section>
+        <section id="prodetails" class="section-p1">
+            <div class="single-pro-img">
+                <img src="img/products/f1.jpg" width="100%" id="mainimg" alt="">
+            </div>
+                <div class="k">
+                    <h6>Home/T-shirt</h6><br>
+                    <h3>MENS FASHION T-SHIRT</h3>
+                    <h4>$139</h4>
+                    <select>
+                        <option>Select size</option>
+                        <option>XL</option>
+                        <option>XXL</option>
+                        <option>small</option>
+                        <option>Large</option>
+                    </select>
+                    <br><input type="number" value="1">
+                    <br><button>ADD TO CART</button>
+                    <br>
+                    <h3 class="p">PRODUCT DETAILS</h3>
+                    <span>
+                        Whether you want to play a peppy party playlist or sit back and unwind with some clas<br>sical jazz, these Amazon Basics speakers are your perfec<br>t companion. They offer world-class audio with crisp a<br> clear sound for not only your favourite music but also movies, shows<br> and games. What's more, these USB 2.0-powered speaker<br>s are compact enough to fit anywhere, easy to carry, and stylishly designed.</span>
+                </div>
+                <div class="smal-img">
+                    <div class="smal-img-col">
+                        <img src="img/products/f1.jpg" width="100%" id="si" alt="">
+                    </div><br>
+                    <div class="smal-img-col">
+                        <img src="img/products/f2.jpg" width="100%" id="si" alt="">
+                    </div>
+                    <div class="smal-img-col">
+                        <img src="img/products/f3.jpg" width="100%" id="si" alt="">
+                    </div>
+                    <div class="smal-img-col">
+                        <img src="img/products/f4.jpg" width="100%" id="si" alt="">
+                    </div>
+                 
+            </div>
+            
+        </section>
+        <section id="oo" class="section-p1">
+            <div class="noo">
+                <h4>SIGN UP FOR NEWSLETTERS</h4>
+                    <h2 class="p">GET E-MAIL ABOUT OUR LATEST UPDATES ABOUT OUR PRODICTS
+                    AND SPECIAL OFFERS</h2>
+                <input  type="text" placeholder="YOUR EMAIL ADDRESS">
+                <button>SIGN UP</button>
+            </div>
+        </section>
+        <footer class="section-p1">
+            <div class="col">
+                <!-- <img class="u" src="img/logo.png" alt=""> -->
+                <h4 class="g">Contacts</h4>
+                <p class="t">Address:11/294,Mogappair East,Chennai 37<br>Phone:8610476791<br>Hours:10:00-18:00,Mon-sat</p>
+                <div class="follow">
+                    <h4>follow us</h4>
+                    <div class="icon">
+                        <i class="fab fa-facebook-f"></i>
+                        <i class="fab fa-twitter"></i>
+                        <i class="fab fa-instagram"></i>
+                        <i class="fab fa-pinterest-p"></i>
+                        <i class="fab fa-youtube"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <h4>ABOUT</h4>
+                <a href="#">ABOUT US</a>
+                <a href="#">DELIVERY INFORMATION</a>
+                <a href="#">PRIVACY POLICY</a>
+                <a href="#">TERMS & CONDITIONS</a>
+                <a href="#">CONTACT US</a>
+            </div>
+            <div class="col">
+                <h4>MT ACCOUNT</h4>
+                <a href="#">SIGN IN</a>
+                <a href="#">VIEW CHART</a>
+                <a href="#">MY WISHLIST</a>
+                <a href="#">TRACK MY ORDER</a>
+                <a href="#">HELP</a>
+            </div>
+            <div class="col">
+                <h4>Install app</h4>
+                <a href="#">From App Store or Google Pay</a>
+                <div class="row">
+                    <img src="img/pay/app.jpg" alt="">
+                    <img src="img/pay/play.jpg" alt="">
+                </div>
+                <p>Secured payment Gateways</p>
+                <img src="img/pay/pay.png" alt="">
+            </div>
+<div class="col">
+    <p class="r">© 2023 Gutchi Enterprises</p>
+</div>
+        </footer>
+        <script src="script.js"></script>
+    </body>
+
+</html>

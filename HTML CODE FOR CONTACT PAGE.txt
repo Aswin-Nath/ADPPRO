@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <section id="header">
+
+            <a href="#"><img src="img/logo.png" alt=""></a>
+            <div>
+                <ul id="navbar">
+                    <li><a  href="index.html">Home</a></li>
+                    <li><a href="blog.html">blog</a></li>
+                    <li><a class="active"
+                        href="contact.html">contact</a></li>
+                    <li><a href="shop.html">shop</a></li>
+                    <li><a  href="about.html">about</a></li>
+                    <li><a href="cart.html"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
+                </ul>
+            </div>
+            </section>
+        <section id="iop">
+            <div class="ii">
+                <h1>#let's_talk</h1><br>
+                <h3>bckloprem io iirrr deij hihbdd</h3>
+            </div>
+        </section><br><br>
+        <section id="ppp" class="section-p1">
+            <img src="img/R.jpeg" alt="">
+        <div class="icon" >
+            <p>GET IN TOUCH</p>
+            <h2>VISIT OURR AGENCY TODAY BY CONTACTING THE BELOW PHONE NUMBER</h2>
+            <div class="rre">
+                <p>HEAD OFFICE</p>
+                <i class="fa fa-map"><p>  Puthupettai,NEW YORK,INDIA</p></i><br>
+                <i class="fa fa-envelope"> <P>Contact aswinthalaa123123@gmail.com</P> </i>
+                <BR><i class="fa fa-phone-alt"><p>#91 3738383838</p></i>
+                <BR><i class="fa fa-clock"><P>MON TO SAT FROM 9 AM TO 10 PM</P>
+                </i>
+            </div>
+        </div>
+        </section>
+        <section id="trr">
+            <section class="vv">
+            <form>
+                <p>LEAVE A MESSAGE</p>
+                <H4>WE LOVE TO HEAR FORM YOU</H4>
+                <input type="text" placeholder="Name">
+                <br><input type="text" placeholder="YOUR EMAIL ADDRESS">
+                <br><input type="text" placeholder="Subject">
+                <br><textarea type="text" name="" id="" cols="30" rows="10" placeholder="YOUR MESSAGE"></textarea>
+                <br> <button>SUBMIT</button><br>
+        </form></section>
+        <section>
+    </DIV>
+            <div class="peo">
+                <div>
+                    <img src="img/people/CEO1.jpg" width="10%" alt="">
+                    <p><span>Alwin</span> SENIOR MANAGER<BR>PHONE: +91 66668 66666<BR>alwin@gmail.com</p>
+                </div><br><br>
+
+                <div>
+                    <img src="img/people/CEO2.webp" width="10%" alt="">
+                    <p><span>Malwin</span> HR<BR>PHONE: +91 65644 54545<BR>alwin@gmail.com</p>
+                </div><br><br>
+                <div>
+                    <img src="img/people/CEO3.webp" width="10%" alt="">
+                    <p><span>Kalwin</span> MARKETING MANAGER<BR>PHONE: +91 99668 55566<BR>alwin@gmail.com</p>
+                </div>
+            </div>
+        </section>
+        <section id="oo" class="section-p1">
+            <div class="noo">
+                <h4>SIGN UP FOR NEWSLETTERS</h4>
+                    <h2 class="p">GET E-MAIL ABOUT OUR LATEST UPDATES ABOUT OUR PRODICTS
+                    AND SPECIAL OFFERS</h2>
+                <input  type="text" placeholder="YOUR EMAIL ADDRESS">
+                <button>SIGN UP</button>
+            </div>
+        </section>
+        <footer class="section-p1">
+            <div class="col">
+                <!-- <img class="u" src="img/logo.png" alt=""> -->
+                <h4 class="g">Contacts</h4>
+                <p class="t">Address:11/294,Mogappair East,Chennai 37<br>Phone:8610476791<br>Hours:10:00-18:00,Mon-sat</p>
+                <div class="follow">
+                    <h4>follow us</h4>
+                    <div class="icon">
+                        <i class="fab fa-facebook-f"></i>
+                        <i class="fab fa-twitter"></i>
+                        <i class="fab fa-instagram"></i>
+                        <i class="fab fa-pinterest-p"></i>
+                        <i class="fab fa-youtube"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <h4>ABOUT</h4>
+                <a href="#">ABOUT US</a>
+                <a href="#">DELIVERY INFORMATION</a>
+                <a href="#">PRIVACY POLICY</a>
+                <a href="#">TERMS & CONDITIONS</a>
+                <a href="#">CONTACT US</a>
+            </div>
+            <div class="col">
+                <h4>MT ACCOUNT</h4>
+                <a href="#">SIGN IN</a>
+                <a href="#">VIEW CHART</a>
+                <a href="#">MY WISHLIST</a>
+                <a href="#">TRACK MY ORDER</a>
+                <a href="#">HELP</a>
+            </div>
+            <div class="col">
+                <h4>Install app</h4>
+                <a href="#">From App Store or Google Pay</a>
+                <div class="row">
+                    <img src="img/pay/app.jpg" alt="">
+                    <img src="img/pay/play.jpg" alt="">
+                </div>
+                <p>Secured payment Gateways</p>
+                <img src="img/pay/pay.png" alt="">
+            </div>
+<div class="col">
+    <p class="r">© 2023 Gutchi Enterprises</p>
+</div>
+        </footer>
+        <script src="script.js"></script>
+    </body>
+
+</html>
