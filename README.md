@@ -1,2 +1,2 @@
 # ADPPRO
-CLONE OF AMAZON
+Cara the shopping website wuth suitable interface to purchase with 
