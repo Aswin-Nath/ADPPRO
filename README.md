@@ -13,7 +13,6 @@ Checkout Process: Guides users through the steps of selecting shipping options, 
 Installation
 To run Cara locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/cara.git
 Navigate to the project directory: cd cara
 Open index.html in your preferred web browser.
 Usage
@@ -49,4 +48,4 @@ Acknowledgements
 Cara was inspired by the design and functionality of Amazon's online store. Special thanks to the creators of HTML, CSS, and JavaScript for providing the foundation for this project.
 
 Contact
-If you have any questions or suggestions regarding Cara, please feel free to contact the project maintainer at your-email@example.com.
+If you have any questions or suggestions regarding Cara, please feel free to contact the project maintainer at aswinnathte125@gmail.com
